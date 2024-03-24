@@ -1,14 +1,14 @@
 # Introduction
 
-| Problem                                      | Solution                     |
-| -------------------------------------------- | ---------------------------- |
-| [Hello, World!][hello_world]                 | [Link](say-hello-world)      |
-| [If-Else][if_else]                           | [Link](if-else)              |
-| [Arithmetic Operators][arithmetic_operators] | [Link](arithmetic-operators) |
-| [Division][division]                         | [Link](division)             |
-| [Loops][loops]                               | [Link](loops)                |
-| [Print][print]                               | [Link](print)                |
-| [Write a function][function]                 | [Link](write-a-function)     |
+| Problem                                      | Solution                                  |
+| -------------------------------------------- | ----------------------------------------- |
+| [Hello, World!][hello_world]                 | [Link](Introduction/say-hello-world)      |
+| [If-Else][if_else]                           | [Link](Introduction/if-else)              |
+| [Arithmetic Operators][arithmetic_operators] | [Link](Introduction/arithmetic-operators) |
+| [Division][division]                         | [Link](Introduction/division)             |
+| [Loops][loops]                               | [Link](Introduction/loops)                |
+| [Print][print]                               | [Link](Introduction/print)                |
+| [Write a function][function]                 | [Link](Introduction/write-a-function)     |
 
 [hello_world]: https://www.hackerrank.com/challenges/py-hello-world/
 [if_else]: https://www.hackerrank.com/challenges/py-if-else/
