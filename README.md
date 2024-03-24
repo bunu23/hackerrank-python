@@ -1,14 +1,14 @@
 # Introduction
 
-| Problem                                      | Solution                                  |
-| -------------------------------------------- | ----------------------------------------- |
-| [Hello, World!][hello_world]                 | [Link](Introduction/say-hello-world)      |
-| [If-Else][if_else]                           | [Link](Introduction/if-else)              |
-| [Arithmetic Operators][arithmetic_operators] | [Link](Introduction/arithmetic-operators) |
-| [Division][division]                         | [Link](Introduction/division)             |
-| [Loops][loops]                               | [Link](Introduction/loops)                |
-| [Print][print]                               | [Link](Introduction/print)                |
-| [Write a function][function]                 | [Link](Introduction/write-a-function)     |
+| Problem                                      | Solution                                              |
+| -------------------------------------------- | ----------------------------------------------------- |
+| [Hello, World!][hello_world]                 | [Link](Introduction/say-hello-world/solution.py)      |
+| [If-Else][if_else]                           | [Link](Introduction/if-else/solution.py)              |
+| [Arithmetic Operators][arithmetic_operators] | [Link](Introduction/arithmetic-operators/solution.py) |
+| [Division][division]                         | [Link](Introduction/division/solution.py)             |
+| [Loops][loops]                               | [Link](Introduction/loops/solution.py)                |
+| [Print][print]                               | [Link](Introduction/print/solution.py)                |
+| [Write a function][function]                 | [Link](Introduction/write-a-function/solution.py)     |
 
 [hello_world]: https://www.hackerrank.com/challenges/py-hello-world/
 [if_else]: https://www.hackerrank.com/challenges/py-if-else/
