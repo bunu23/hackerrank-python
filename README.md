@@ -20,13 +20,13 @@
 
 # Basic Data Types
 
-| Problem                                                                                                                                      | Solution                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)                                   | [Link](List-comprehension)     |
-| [Find Second Maximum Number in a List](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) | [Link](second-max-num-in-list) |
-| [Nested List](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true)                                                   | [Link](nested-list)            |
-| [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)                             | [Link](find-the-percentage)    |
-| [Python Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)                                                 | [Link](lists)                  |
-| [Python Tuples](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true)                                               | [Link](tuples)                 |
+| Problem                                                                                                                                      | Solution                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)                                   | [Link](basic-data-types) |
+| [Find Second Maximum Number in a List](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) | [Link](basic-data-types) |
+| [Nested List](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true)                                                   | [Link](basic-data-types) |
+| [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)                             | [Link](basic-data-types) |
+| [Python Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)                                                 | [Link](basic-data-types) |
+| [Python Tuples](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true)                                               | [Link](basic-data-types) |
 
 # Strings
