@@ -22,7 +22,7 @@
 
 | Problem                                                                                                                                      | Solution                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)                                   | [Link](list-comprehension)     |
+| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true)                                   | [Link](List-comprehension)     |
 | [Find Second Maximum Number in a List](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) | [Link](second-max-num-in-list) |
 | [Nested List](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true)                                                   | [Link](nested-list)            |
 | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)                             | [Link](find-the-percentage)    |
