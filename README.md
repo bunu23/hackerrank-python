@@ -28,5 +28,6 @@
 | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)                             | [Link](basic-data-types) |
 | [Python Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)                                                 | [Link](basic-data-types) |
 | [Python Tuples](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true)                                               | [Link](basic-data-types) |
+| [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)             | [Link](basic-data-types) |
 
 # Strings
