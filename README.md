@@ -31,3 +31,7 @@
 | [Find the Runner-Up Score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)             | [Link](basic-data-types) |
 
 # Strings
+
+| Problem                                                                                              | Solution        |
+| ---------------------------------------------------------------------------------------------------- | --------------- |
+| [What's your name?](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true) | [Link](strings) |
