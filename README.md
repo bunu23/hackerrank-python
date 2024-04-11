@@ -35,3 +35,4 @@
 | Problem                                                                                              | Solution        |
 | ---------------------------------------------------------------------------------------------------- | --------------- |
 | [What's your name?](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true) | [Link](strings) |
+| [Swap Case](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true)               | [Link](strings) |
