@@ -38,3 +38,4 @@
 | [Swap Case](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true)                         | [Link](strings) |
 | [Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true) | [Link](strings) |
 | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true)                  | [Link](strings) |
+| [Find a String](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true)                 | [Link](strings) |
