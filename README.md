@@ -40,3 +40,4 @@
 | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true)                  | [Link](strings) |
 | [Find a String](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true)                 | [Link](strings) |
 | [String Validator](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true)          | [Link](strings) |
+| [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true)               | [Link](strings) |
