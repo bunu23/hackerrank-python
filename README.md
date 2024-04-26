@@ -41,3 +41,4 @@
 | [Find a String](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true)                 | [Link](strings) |
 | [String Validator](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true)          | [Link](strings) |
 | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true)               | [Link](strings) |
+| [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true)                         | [Link](strings) |
