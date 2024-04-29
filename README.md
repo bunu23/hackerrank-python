@@ -42,3 +42,4 @@
 | [String Validator](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true)          | [Link](strings) |
 | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true)               | [Link](strings) |
 | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true)                         | [Link](strings) |
+| [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true)         | [Link](strings) |
