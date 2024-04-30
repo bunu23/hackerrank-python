@@ -43,3 +43,4 @@
 | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true)               | [Link](strings) |
 | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true)                         | [Link](strings) |
 | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true)         | [Link](strings) |
+| [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true)  | [Link](strings) |
