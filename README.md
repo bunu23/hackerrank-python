@@ -44,3 +44,4 @@
 | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true)                         | [Link](strings) |
 | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true)         | [Link](strings) |
 | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true)  | [Link](strings) |
+| [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true)           | [Link](strings) |
