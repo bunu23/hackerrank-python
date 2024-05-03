@@ -46,3 +46,4 @@
 | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true)  | [Link](strings) |
 | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true)           | [Link](strings) |
 | [Capitalize](https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true)                       | [Link](strings) |
+| [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true)             | [Link](strings) |
