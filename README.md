@@ -48,3 +48,9 @@
 | [Capitalize](https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true)                       | [Link](strings) |
 | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true)             | [Link](strings) |
 | [Merge the Tools](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true)             | [Link](strings) |
+
+# Sets
+
+| Problem                                                                                                         | Solution     |
+| --------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true) | [Link](sets) |
