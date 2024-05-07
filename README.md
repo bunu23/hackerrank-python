@@ -54,3 +54,4 @@
 | Problem                                                                                                         | Solution     |
 | --------------------------------------------------------------------------------------------------------------- | ------------ |
 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true) | [Link](sets) |
+| [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true)                             | [Link](sets) |
