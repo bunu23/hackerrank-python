@@ -55,3 +55,4 @@
 | --------------------------------------------------------------------------------------------------------------- | ------------ |
 | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true) | [Link](sets) |
 | [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true)                             | [Link](sets) |
+| [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true)        | [Link](sets) |
