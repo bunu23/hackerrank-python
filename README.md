@@ -51,9 +51,11 @@
 
 # Sets
 
-| Problem                                                                                                         | Solution     |
-| --------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true) | [Link](sets) |
-| [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true)                             | [Link](sets) |
-| [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true)        | [Link](sets) |
-| [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true)    | [Link](sets) |
+| Problem                                                                                                                         | Solution     |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true)                 | [Link](sets) |
+| [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true)                                             | [Link](sets) |
+| [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true)                        | [Link](sets) |
+| [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true)                    | [Link](sets) |
+| [Set.add()](https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true)                                         | [Link](sets) |
+| [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem?isFullScreen=true) | [Link](sets) |
