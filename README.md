@@ -60,3 +60,4 @@
 | [Set.add()](https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true)                                         | [Link](sets) |
 | [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem?isFullScreen=true) | [Link](sets) |
 | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true)                          | [Link](sets) |
+| [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true)  | [Link](sets) |
