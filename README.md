@@ -62,3 +62,4 @@
 | [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true)                          | [Link](sets) |
 | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true)  | [Link](sets) |
 | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true)      | [Link](sets) |
+| [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true)                               | [Link](sets) |
