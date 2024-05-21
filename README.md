@@ -63,3 +63,4 @@
 | [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true)  | [Link](sets) |
 | [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true)      | [Link](sets) |
 | [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true)                               | [Link](sets) |
+| [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true)                      | [Link](sets) |
