@@ -51,18 +51,25 @@
 
 # Sets
 
-| Problem                                                                                                                         | Solution     |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true)                 | [Link](sets) |
-| [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true)                                             | [Link](sets) |
-| [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true)                        | [Link](sets) |
-| [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true)                    | [Link](sets) |
-| [Set.add()](https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true)                                         | [Link](sets) |
-| [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem?isFullScreen=true) | [Link](sets) |
-| [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true)                          | [Link](sets) |
-| [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true)  | [Link](sets) |
-| [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true)      | [Link](sets) |
-| [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true)                               | [Link](sets) |
-| [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true)                      | [Link](sets) |
-| [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)                                 | [Link](sets) |
-| [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true)               | [Link](sets) |
+| Problem                                                                                                                                        | Solution     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem?isFullScreen=true)                                | [Link](sets) |
+| [No Idea!](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true)                                                            | [Link](sets) |
+| [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true)                                       | [Link](sets) |
+| [Symmetric Difference](https://www.hackerrank.com/challenges/symmetric-difference/problem?isFullScreen=true)                                   | [Link](sets) |
+| [Set.add()](https://www.hackerrank.com/challenges/py-set-add/problem?isFullScreen=true)                                                        | [Link](sets) |
+| [Set .discard(), .remove() & .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem?isFullScreen=true)                | [Link](sets) |
+| [Set .union() Operation](https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true)                                         | [Link](sets) |
+| [Set .intersection() Operation](https://www.hackerrank.com/challenges/py-set-intersection-operation/problem?isFullScreen=true)                 | [Link](sets) |
+| [Set .difference() Operation](https://www.hackerrank.com/challenges/py-set-difference-operation/problem?isFullScreen=true)                     | [Link](sets) |
+| [Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem?isFullScreen=true)                                              | [Link](sets) |
+| [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem?isFullScreen=true)                                     | [Link](sets) |
+| [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem?isFullScreen=true)                                                | [Link](sets) |
+| [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem?isFullScreen=true)                              | [Link](sets) |
+| [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem?isFullScreen=true) | [Link](sets) |
+
+# Math
+
+| Problem                                                                                                | Solution     |
+| ------------------------------------------------------------------------------------------------------ | ------------ |
+| [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true) | [Link](math) |
