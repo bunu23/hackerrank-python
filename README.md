@@ -73,3 +73,4 @@
 | Problem                                                                                                | Solution     |
 | ------------------------------------------------------------------------------------------------------ | ------------ |
 | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true) | [Link](math) |
+| [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem?isFullScreen=true)           | [Link](math) |
