@@ -75,3 +75,4 @@
 | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true) | [Link](math) |
 | [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem?isFullScreen=true)           | [Link](math) |
 | [Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem?isFullScreen=true)   | [Link](math) |
+| [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true)        | [Link](math) |
