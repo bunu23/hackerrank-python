@@ -78,3 +78,6 @@
 | [Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem?isFullScreen=true)                                 | [Link](math) |
 | [Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem?isFullScreen=true)                     | [Link](math) |
 | [Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem?isFullScreen=true) | [Link](math) |
+| [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem?isFullScreen=true)                                | [Link](math) |
+
+# Itertools
