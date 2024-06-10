@@ -81,3 +81,7 @@
 | [Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem?isFullScreen=true)                                | [Link](math) |
 
 # Itertools
+
+| Problem                                                                                                            | Solution          |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true) | [Link](Itertools) |
