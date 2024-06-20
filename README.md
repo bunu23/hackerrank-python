@@ -87,3 +87,4 @@
 | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem?isFullScreen=true)                                   | [Link](Itertools) |
 | [itertools.combinations()](https://www.hackerrank.com/challenges/itertools-combinations/problem?isFullScreen=true)                                   | [Link](Itertools) |
 | [itertools.combinations_with_replacement()](https://www.hackerrank.com/challenges/itertools-combinations-with-replacement/problem?isFullScreen=true) | [Link](Itertools) |
+| [Compress the String!](https://www.hackerrank.com/challenges/compress-the-string/problem?isFullScreen=true)                                          | [Link](Itertools) |
