@@ -93,8 +93,9 @@
 
 # Collections
 
-| Problem                                                                                                               | Solution            |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true)          | [Link](collections) |
-| [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true)          | [Link](collections) |
-| [collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?isFullScreen=true) | [Link](collections) |
+| Problem                                                                                                                 | Solution            |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true)            | [Link](collections) |
+| [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem?isFullScreen=true)            | [Link](collections) |
+| [collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?isFullScreen=true)   | [Link](collections) |
+| [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true) | [Link](collections) |
