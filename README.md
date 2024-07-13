@@ -100,3 +100,4 @@
 | [collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?isFullScreen=true)   | [Link](collections) |
 | [Collections.OrderedDict()](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true) | [Link](collections) |
 | [Word Order](https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true)                                | [Link](collections) |
+| [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem?isFullScreen=true)             | [Link](collections) |
