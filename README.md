@@ -103,3 +103,9 @@
 | [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque/problem?isFullScreen=true)             | [Link](collections) |
 | [Company Logo](https://www.hackerrank.com/challenges/most-commons/problem?isFullScreen=true)                            | [Link](collections) |
 | [Piling Up!](https://www.hackerrank.com/challenges/piling-up/problem?isFullScreen=true)                                 | [Link](collections) |
+
+# Date and Time
+
+| Problem                                                                                            | Solution              |
+| -------------------------------------------------------------------------------------------------- | --------------------- |
+| [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true) | [Link](date-and-time) |
