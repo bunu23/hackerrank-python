@@ -109,3 +109,4 @@
 | Problem                                                                                            | Solution              |
 | -------------------------------------------------------------------------------------------------- | --------------------- |
 | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true) | [Link](date-and-time) |
+| [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem?isFullScreen=true)    | [Link](date-and-time) |
