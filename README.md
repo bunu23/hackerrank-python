@@ -110,3 +110,8 @@
 | -------------------------------------------------------------------------------------------------- | --------------------- |
 | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true) | [Link](date-and-time) |
 | [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem?isFullScreen=true)    | [Link](date-and-time) |
+
+| Problem                                                                                            | Solution                      |
+| -------------------------------------------------------------------------------------------------- | ----------------------------- |
+| [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true)           | [Link](errors-and-exceptions) |
+| [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true) | [Link](errors-and-exceptions) |
