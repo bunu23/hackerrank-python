@@ -115,3 +115,7 @@
 | -------------------------------------------------------------------------------------------------- | ----------------------------- |
 | [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true)           | [Link](errors-and-exceptions) |
 | [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true) | [Link](errors-and-exceptions) |
+
+| Problem                                                                                                         | Solution        |
+| --------------------------------------------------------------------------------------------------------------- | --------------- |
+| [classes](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true) | [Link](classes) |
