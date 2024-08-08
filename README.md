@@ -116,6 +116,7 @@
 | [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true)           | [Link](errors-and-exceptions) |
 | [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true) | [Link](errors-and-exceptions) |
 
-| Problem                                                                                                         | Solution        |
-| --------------------------------------------------------------------------------------------------------------- | --------------- |
-| [classes](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true) | [Link](classes) |
+| Problem                                                                                                                                       | Solution        |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true) | [Link](classes) |
+| [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true)        | [Link](classes) |
