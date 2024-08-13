@@ -111,12 +111,22 @@
 | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=true) | [Link](date-and-time) |
 | [Time Delta](https://www.hackerrank.com/challenges/python-time-delta/problem?isFullScreen=true)    | [Link](date-and-time) |
 
+# Excpetions
+
 | Problem                                                                                            | Solution                      |
 | -------------------------------------------------------------------------------------------------- | ----------------------------- |
 | [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem?isFullScreen=true)           | [Link](errors-and-exceptions) |
 | [Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem?isFullScreen=true) | [Link](errors-and-exceptions) |
 
+# Classes
+
 | Problem                                                                                                                                       | Solution        |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
 | [Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem?isFullScreen=true) | [Link](classes) |
 | [Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem?isFullScreen=true)        | [Link](classes) |
+
+# Built-Ins
+
+| Problem                                                                           | Solution          |
+| --------------------------------------------------------------------------------- | ----------------- |
+| [Zipped!](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true) | [Link](built-ins) |
