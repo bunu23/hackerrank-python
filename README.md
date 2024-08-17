@@ -130,3 +130,4 @@
 | Problem                                                                           | Solution          |
 | --------------------------------------------------------------------------------- | ----------------- |
 | [Zipped!](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true) | [Link](built-ins) |
+| [Input()](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true)  | [Link](built-ins) |
