@@ -127,7 +127,8 @@
 
 # Built-Ins
 
-| Problem                                                                           | Solution          |
-| --------------------------------------------------------------------------------- | ----------------- |
-| [Zipped!](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true) | [Link](built-ins) |
-| [Input()](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true)  | [Link](built-ins) |
+| Problem                                                                                          | Solution          |
+| ------------------------------------------------------------------------------------------------ | ----------------- |
+| [Zipped!](https://www.hackerrank.com/challenges/zipped/problem?isFullScreen=true)                | [Link](built-ins) |
+| [Input()](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true)                 | [Link](built-ins) |
+| [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true) | [Link](built-ins) |
