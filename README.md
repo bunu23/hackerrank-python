@@ -133,3 +133,4 @@
 | [Input()](https://www.hackerrank.com/challenges/input/problem?isFullScreen=true)                 | [Link](built-ins) |
 | [Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem?isFullScreen=true) | [Link](built-ins) |
 | [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true) | [Link](built-ins) |
+| [Any or All](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true)         | [Link](built-ins) |
