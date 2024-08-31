@@ -135,3 +135,9 @@
 | [Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true) | [Link](built-ins) |
 | [Any or All](https://www.hackerrank.com/challenges/any-or-all/problem?isFullScreen=true)         | [Link](built-ins) |
 | [ginortS](https://www.hackerrank.com/challenges/ginorts/problem?isFullScreen=true)               | [Link](built-ins) |
+
+# Python Functionals
+
+| Problem                                                                                                              | Solution                   |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true) | [Link](python-functionals) |
