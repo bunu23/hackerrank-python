@@ -138,6 +138,8 @@
 
 # Python Functionals
 
-| Problem                                                                                                              | Solution                   |
-| -------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true) | [Link](python-functionals) |
+| Problem                                                                                                                                                | Solution                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true)                                   | [Link](python-functionals) |
+| [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true) | [Link](python-functionals) |
+| [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true)                                                     | [Link](python-functionals) |
