@@ -143,3 +143,9 @@
 | [Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem?isFullScreen=true)                                   | [Link](python-functionals) |
 | [Validating Email Addresses With a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem?isFullScreen=true) | [Link](python-functionals) |
 | [Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem?isFullScreen=true)                                                     | [Link](python-functionals) |
+
+# Regex and Parsing
+
+| Problem                                                                                                               | Solution                  |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true) | [Link](regex-and-parsing) |
