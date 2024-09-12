@@ -146,6 +146,9 @@
 
 # Regex and Parsing
 
-| Problem                                                                                                               | Solution                  |
-| --------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true) | [Link](regex-and-parsing) |
+| Problem                                                                                                                | Solution                  |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true)  | [Link](regex-and-parsing) |
+| [Re.split()](https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true)                                 | [Link](regex-and-parsing) |
+| [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem?isFullScreen=true)     | [Link](regex-and-parsing) |
+| [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem?isFullScreen=true) | [Link](regex-and-parsing) |
