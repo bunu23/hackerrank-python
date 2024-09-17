@@ -146,9 +146,14 @@
 
 # Regex and Parsing
 
-| Problem                                                                                                                | Solution                  |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true)  | [Link](regex-and-parsing) |
-| [Re.split()](https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true)                                 | [Link](regex-and-parsing) |
-| [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem?isFullScreen=true)     | [Link](regex-and-parsing) |
-| [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem?isFullScreen=true) | [Link](regex-and-parsing) |
+| Problem                                                                                                                                    | Solution                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex/problem?isFullScreen=true)                      | [Link](regex-and-parsing) |
+| [Re.split()](https://www.hackerrank.com/challenges/re-split/problem?isFullScreen=true)                                                     | [Link](regex-and-parsing) |
+| [Group(), Groups() & Groupdict()](https://www.hackerrank.com/challenges/re-group-groups/problem?isFullScreen=true)                         | [Link](regex-and-parsing) |
+| [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem?isFullScreen=true)                     | [Link](regex-and-parsing) |
+| [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end/problem?isFullScreen=true)                                   | [Link](regex-and-parsing) |
+| [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem?isFullScreen=true)                            | [Link](regex-and-parsing) |
+| [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem?isFullScreen=true)                       | [Link](regex-and-parsing) |
+| [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem?isFullScreen=true)                    | [Link](regex-and-parsing) |
+| [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem?isFullScreen=true) | [Link](regex-and-parsing) |
