@@ -157,3 +157,4 @@
 | [Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number/problem?isFullScreen=true)                       | [Link](regex-and-parsing) |
 | [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem?isFullScreen=true)                    | [Link](regex-and-parsing) |
 | [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses/problem?isFullScreen=true) | [Link](regex-and-parsing) |
+| [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code/problem?isFullScreen=true)                                           | [Link](regex-and-parsing) |
