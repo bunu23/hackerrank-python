@@ -161,3 +161,4 @@
 | [HTML Parser - Part 1](https://www.hackerrank.com/challenges/html-parser-part-1/problem?isFullScreen=true)                                                            | [Link](regex-and-parsing) |
 | [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem?isFullScreen=true)                                                            | [Link](regex-and-parsing) |
 | [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem?isFullScreen=true) | [Link](regex-and-parsing) |
+| [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem?isFullScreen=true)                                                                      | [Link](regex-and-parsing) |
