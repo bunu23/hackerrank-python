@@ -162,3 +162,4 @@
 | [HTML Parser - Part 2](https://www.hackerrank.com/challenges/html-parser-part-2/problem?isFullScreen=true)                                                            | [Link](regex-and-parsing) |
 | [Detect HTML Tags, Attributes and Attribute Values](https://www.hackerrank.com/challenges/detect-html-tags-attributes-and-attribute-values/problem?isFullScreen=true) | [Link](regex-and-parsing) |
 | [Validating UID](https://www.hackerrank.com/challenges/validating-uid/problem?isFullScreen=true)                                                                      | [Link](regex-and-parsing) |
+| [Validating Credit Card Numbers](https://www.hackerrank.com/challenges/validating-credit-card-number/problem?isFullScreen=true)                                       | [Link](regex-and-parsing) |
